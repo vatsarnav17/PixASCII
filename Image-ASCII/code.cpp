@@ -403,7 +403,7 @@ void displayAbout() {
     cout << "Project Name: Image To ASCII Conversion" << endl;
     cout << "Features    : ASCII Conversion, Brightness Adjustment,\n";
     cout << "              Edge Detection, and Dijkstra's Shortest Path." << endl;
-    cout << "Created By  : Parth Khare, Arnav Vats,Shivek Gupta." << endl;
+    cout << "Created By  : Arnav Vats." << endl;
     cout << "==========================================" << endl;
 
     waitForUser();
